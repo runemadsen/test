@@ -1,1 +1,3 @@
-my file
+This is a file.
+It has some content.
+Hooray words, they is the greatest.
